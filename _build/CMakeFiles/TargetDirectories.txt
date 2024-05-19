@@ -1,6 +1,8 @@
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/Facade.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/my_exe.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/check.dir
+/home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/package.dir
+/home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/package_source.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/test.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/edit_cache.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/rebuild_cache.dir
@@ -8,6 +10,8 @@
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/install.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/install/local.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/install/strip.dir
+/home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/CMakeFiles/package.dir
+/home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/CMakeFiles/package_source.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/CMakeFiles/test.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/CMakeFiles/edit_cache.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/CMakeFiles/rebuild_cache.dir
@@ -17,6 +21,8 @@
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/CMakeFiles/install/strip.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googlemock/CMakeFiles/gmock.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googlemock/CMakeFiles/gmock_main.dir
+/home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googlemock/CMakeFiles/package.dir
+/home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googlemock/CMakeFiles/package_source.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googlemock/CMakeFiles/test.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googlemock/CMakeFiles/edit_cache.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googlemock/CMakeFiles/rebuild_cache.dir
@@ -26,6 +32,8 @@
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googlemock/CMakeFiles/install/strip.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googletest/CMakeFiles/gtest.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googletest/CMakeFiles/gtest_main.dir
+/home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googletest/CMakeFiles/package.dir
+/home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googletest/CMakeFiles/package_source.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googletest/CMakeFiles/test.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googletest/CMakeFiles/edit_cache.dir
 /home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/third-party/gtest/googletest/CMakeFiles/rebuild_cache.dir
