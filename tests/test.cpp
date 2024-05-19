@@ -1,18 +1,21 @@
 #include <gtest/gtest.h>
 #include "FacadePatternExample.h"
 
-TEST(SubsystemTest, ComplexOperation1) {
-  ConceptualExample::Subsystem1 subsystem;
-  EXPECT_EQ(subsystem.complexOperation1(), "Expected result for complexOperation1");
-}
-
-TEST(SubsystemTest, ComplexOperation2) {
-  ConceptualExample::Subsystem2 subsystem;
-  EXPECT_EQ(subsystem.complexOperation2(), "Expected result for complexOperation2");
-}
-
 TEST(FacadeTest, SimpleOperation) {
-  ConceptualExample::Facade facade;
-  EXPECT_EQ(facade.simpleOperation(), "Expected result for simpleOperation");
+    ConceptualExample::Facade facade;
+    std::string expectedResult = "Facade initializes subsystems:\nSubsystem1: Initialized!\nSubsystem2: Initialized!\nFacade orders subsystems to perform actions:\nSubsystem1: Works!\nSubsystem2: Works too!\n";
+    ASSERT_EQ(facade.simpleOperation(), expectedResult);
+}
+
+TEST(Subsystem1Test, ComplexOperation1) {
+    ConceptualExample::Subsystem1 subsystem1;
+    std::string expectedResult = "Subsystem1: Initialized!\n";
+    ASSERT_EQ(subsystem1.complexOperation1(), expectedResult);
+}
+
+TEST(Subsystem2Test, ComplexOperation2) {
+    ConceptualExample::Subsystem2 subsystem2;
+    std::string expectedResult = "Subsystem2: Works too!\n";
+    ASSERT_EQ(subsystem2.complexOperation2(), expectedResult);
 }
 
