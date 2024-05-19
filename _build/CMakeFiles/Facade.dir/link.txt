@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFacade.a CMakeFiles/Facade.dir/Facade/ConceptualExample.cpp.o CMakeFiles/Facade.dir/Facade/Program.cpp.o
+/usr/bin/ranlib libFacade.a

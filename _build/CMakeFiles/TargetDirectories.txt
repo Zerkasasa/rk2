@@ -1,0 +1,4 @@
+/home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/Facade.dir
+/home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/my_exe.dir
+/home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/edit_cache.dir
+/home/vboxuser/Zerkasasa/workspace/projects/rk2/_build/CMakeFiles/rebuild_cache.dir
