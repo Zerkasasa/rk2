@@ -25,12 +25,6 @@ jobs:
         cmake -S . -B build
         cmake --build build --config Release
 
-    - name: Download artifact
-      uses: actions/download-artifact@v2
-      with:
-          name: package
-          path: ./
-
     - name: Upload Artifact
       uses: actions/upload-artifact@v4
       with:
